@@ -21,7 +21,7 @@
                                          <div class="row">
                                              <div class="col-12">
                                                  <div class="form-group">
-                                                     <h5>Student Fee Category Name <span class="text-danger">*</span></h5>
+                                                     <h5>Fee Category Name <span class="text-danger">*</span></h5>
                                                      <div class="controls">
                                                          <input type="text" name="name" class="form-control">
                                                          @error('name')
